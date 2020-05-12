@@ -1,7 +1,7 @@
 # Homework Tracker
 
 	FLUTTER along with FIRESTORE for parents to easily know
-if their child has done their homework or not
+	if their child has done their homework or not
 
 ## Current Status
 
